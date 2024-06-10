@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954080229112",
+    "project_id": "act3-22702",
+    "storage_bucket": "act3-22702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954080229112:android:eaf75729a704302ded2d0d",
+        "android_client_info": {
+          "package_name": "com.alcantara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9RqDaeDoqfXeBZa7Vqm3yqluV-HyQvQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
